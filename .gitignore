@@ -80,3 +80,5 @@ examples/example_sdl3_vulkan/example_sdl3_vulkan
 # My Ignore
 [Bb]in/
 [Bb]in-int/
+
+*.vcxproj
